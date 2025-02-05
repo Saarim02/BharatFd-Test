@@ -56,8 +56,8 @@ The objective of this project was to design and implement a multilingual FAQ man
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/hiring-test-backend.git
-   cd hiring-test-backend
+   git clone https://github.com/yourusername/BharatFd-Test.git
+   cd BharatFd-Test
    ```
 
 2. **Install Dependencies**
@@ -93,7 +93,7 @@ The objective of this project was to design and implement a multilingual FAQ man
       ```
    v. Install and start the frontend:
       ```bash
-      cd ../client
+      cd ../frontend
       npm install
       npm start
       ```
